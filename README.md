@@ -5,6 +5,8 @@ The jupyter notebook walks readers through the end to end process of building ma
 
 ## Models
 * Logistic Regression
+* Gradient Boosting Machine
 * Boosted Decision Tree
+* Extreme Gradient Boost
 * Random Forest
 * Neural Network
