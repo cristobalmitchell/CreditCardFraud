@@ -10,3 +10,7 @@ The jupyter notebook walks readers through the end to end process of building ma
 * Extreme Gradient Boost
 * Random Forest
 * Neural Network
+
+## Results
+Based on the criteria of high precision, high recall, and fast predictions the Logistic Regression model performed best and was the only model that did not show signs of overfitting. 
+<img src="images/evaluation_table.png" />
